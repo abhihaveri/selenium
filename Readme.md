@@ -1,4 +1,5 @@
- graph TD
+%%mermaid
+graph TD
     A[Project Initiation and Planning] -->|2 months| B[Electric Car Manufacturers]
     A -->|2 months| C[Energy Providers]
     A -->|2 months| D[Local Governments]
